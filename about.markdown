@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Social Justice, Diversity, Inclusion, and Multi-Culturlism are complicated, rich, and important ideas that are shaping our generation.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+In recent years, these ideals have been co-opted by a radical, puritanical and subversive current of thought, that has co-opted them, and radicalized them. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This site is an attempt at a corrective: A discernment that re-establishes the core values of these ideals, and differentiates them from their shadow.
