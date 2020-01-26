@@ -5,6 +5,24 @@
 layout: default
 ---
 
+<!----- Conversion time: 1.549 seconds.
+
+
+Using this Markdown file:
+
+1. Cut and paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β17
+* Sun Jan 26 2020 06:36:03 GMT-0800 (PST)
+* Source doc: https://docs.google.com/open?id=1HpBXoI0fLEB9zK9cHGwkmLTIV5U8hWHWyRgVfq1KKYY
+----->
+
+
 
 <table>
   <tr>
@@ -54,6 +72,7 @@ layout: default
    <td colspan="2" >Judges ideas on their merit regardless of social identity group of author. Rejects the notion that someone’s social identity invalidates (or validates) what they express / understand / experience / advocate.
    </td>
    <td colspan="2" >Judge ideas first by considering the identity group the author belongs to. Social identity impacts validity of what someone can understand / experience /express. 
+<br><br>
 Tends to validate an idea based on its author’s victimhood, or dismiss someone’s ideas based on their social identity. “As a straight, cisgender, white male you cannot possibly say/understand….”. 
    </td>
   </tr>
@@ -67,5 +86,49 @@ Tends to validate an idea based on its author’s victimhood, or dismiss someone
 
 
 
-<!-- Docs to Markdown version 1.0β17 -->
+<table>
+  <tr>
+   <td colspan="4" >
+<h2>Change Theory</h2>
+
+
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >
+<h3>Integrated</h3>
+
+
+   </td>
+   <td colspan="2" >
+<h3>Distorted</h3>
+
+
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >Tend the world
+   </td>
+   <td colspan="2" >Change the world
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >Be the change
+   </td>
+   <td colspan="2" >Impose the change
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" >Liberate thought
+   </td>
+   <td colspan="2" >Police thought
+   </td>
+  </tr>
+  <tr>
+   <td colspan="2" ><a href="https://www.nytimes.com/2019/08/17/opinion/sunday/cancel-culture-call-out.html">Call-in</a> culture
+   </td>
+   <td colspan="2" >Call-out culture
+   </td>
+  </tr>
+</table>
 
